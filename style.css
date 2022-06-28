@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 1400px;
+    width: 100%;
+    background-image: linear-gradient(white, orange, hotpink);
+}
+
+.header {
+    height: 80%;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.top-header {
+    width: 90%;
+    height: 300px;
+    background-color: rgb(7, 36, 36);
+    margin: auto;
+}
+
+.div-one {
+    margin-left: 30px;
+    padding-top: 40px;
+}
+
+.div-one input {
+    background-color: teal;
+    height: 20px;
+    width: 50px;
+    color: aliceblue;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: none;
+}
+
+.div-two {
+    margin-left: 30px;
+}
+
+.div-two p {
+    color: teal;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+
+.div-three {
+    margin-left: 30px;
+}
+
+.div-three p {
+    text-transform: capitalize;
+    color: teal;
+}
+
+.div-three p i {
+    color: teal;
+}
+
+.div-four {
+    margin-left: 30px;
+    padding-top: 5px;
+}
+
+.div-four p {
+    text-transform: capitalize;
+    color: teal;
+}
+
+.div-four p i {
+    color: teal;
+}
+
+.div-five {
+    margin-left: 30px;
+    padding-top: 5px;
+}
+
+.div-five p {
+    color: teal;
+    text-transform: capitalize;
+}
+
+.div-six {
+    margin-left: 30px;
+    padding-top: 10px;
+}
+
+.div-six p input {
+    text-align: center;
+    text-transform: capitalize;
+    background-color: teal;
+    color: aliceblue;
+}
+
+.bottom-header {
+    height: 600px;
+    width: 90%;
+    margin: auto;
+    background-color: aqua;
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.bottom-header-text-one {
+    height: 200px;
+    width: 300px;
+    background-color: teal;
+    padding-top: 30px;
+    border-radius: 50%;
+    color: aliceblue;
+    margin-left: 30px;
+}
+
+.bottom-header-text-one p {
+    padding-top: 40px;
+    text-transform: capitalize;
+    color: aliceblue;
+}
+
+.bottom-header-text-two {
+    height: 200px;
+    width: 300px;
+    background-color: teal;
+    padding-top: 30px;
+    border-radius: 50%;
+    color: aliceblue;
+}
+
+.bottom-header-text-two p {
+    padding-top: 40px;
+    text-transform: capitalize;
+    color: aliceblue;
+}
+
+.bottom-header-text-three {
+    height: 200px;
+    width: 300px;
+    background-color: teal;
+    padding-top: 30px;
+    border-radius: 50%;
+    color: aliceblue;
+}
+
+.bottom-header-text-three p {
+    padding-top: 40px;
+    text-transform: capitalize;
+    color: aliceblue;
+}
+
+.bottom-header-text-four {
+    height: 200px;
+    width: 300px;
+    background-color: teal;
+    padding-top: 30px;
+    border-radius: 50%;
+    color: aliceblue;
+    margin-left: 30px;
+}
+
+.bottom-header-text-four p {
+    padding-top: 40px;
+    text-transform: capitalize;
+    color: aliceblue;
+}
+
+.bottom-header-text-five {
+    height: 200px;
+    width: 300px;
+    background-color: teal;
+    padding-top: 30px;
+    border-radius: 50%;
+    color: aliceblue;
+}
+
+.bottom-header-text-five p {
+    padding-top: 40px;
+    text-transform: capitalize;
+    color: aliceblue;
+}
+
+.bottom-header-text-six {
+    height: 200px;
+    width: 300px;
+    background-color: teal;
+    padding-top: 30px;
+    border-radius: 50%;
+    color: aliceblue;
+}
+
+.bottom-header-text-six p {
+    padding-top: 40px;
+    text-transform: capitalize;
+    color: aliceblue;
+}
+
+.fotter {
+    text-align: center;
+}
+
+.fotter-text p {
+    font-size: 50px;
+    word-spacing: 10px;
+    text-transform: capitalize;
+}
+
+.fotter-text p i {
+    word-spacing: 10px;
+}
